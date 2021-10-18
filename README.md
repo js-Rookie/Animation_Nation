@@ -24,8 +24,12 @@ Go to the root include.js. You will see an array of objects, each one represents
 let cards = [
   {
     pageLink: './Art/Joy/triangle/triangle.html',
+  
     imageLink: './Art/Joy/triangle/triangle.gif',
+  
     author: 'Joy',
+  
     githubLink: 'https://github.com/royranger'
+  
   }
 ];
