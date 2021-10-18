@@ -1,4 +1,5 @@
-Animation Nation
+                                                                       **Animation Nation**
+                                                                       
 Hello and welcome to Animation Nation, a  project for Hacktoberfest 2020! This site aims to showcase your talent :)
 
 Rules
