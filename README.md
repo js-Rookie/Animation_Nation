@@ -17,9 +17,8 @@ How to contribute
 
 2:Clone your repository that you are forked
     
-   git clone https://github.com/<Your github Name>/Animation_Nation.git
+      git clone https://github.com/<Your github Name>/Animation_Nation.git
            
-
 3: Before you make any changes, keep your fork in sync to avoid merge conflicts:
 
        git remote add upstream https://github.com/js-Rookie/Animation_Nation.git
