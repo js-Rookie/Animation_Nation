@@ -46,8 +46,8 @@ Go to the root include.js. You will see an array of objects, each one represents
 let cards = [
   {
   
-    pageLink: './Art/Your Name/triangle/triangle.html',
-    imageLink: './Art/Your Name/triangle/triangle.gif',
+    pageLink: './Art/Your Name/your_art/index.html',
+    imageLink: './Art/Your Name/your_art/art.gif',
     author: 'Your Name',
     githubLink: 'Your Github Link'
   
