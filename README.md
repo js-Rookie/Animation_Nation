@@ -1,6 +1,6 @@
                                                                        **Animation Nation**
                                                                        
-Hello and welcome to Animation Nation, a  project for Hacktoberfest 2020! This site aims to showcase your talent :)
+Hello and welcome to Animation Nation, a  project for Hacktoberfest 2021! This site aims to showcase your talent :)
 
 Rules
 The rules are simple. You have to:
