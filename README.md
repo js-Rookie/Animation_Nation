@@ -22,7 +22,6 @@ If you don't add a gif/screenshot, the website won't show your animation.
 Go to the root include.js. You will see an array of objects, each one represents a work of art that someone has created. Copy an example object and paste it at the end, filling it out with your art information and links:
   
 let cards = [
-  //  Add your card in this section
   {
     pageLink: './Art/Joy/triangle/triangle.html',
     imageLink: './Art/Joy/triangle/triangle.gif',
