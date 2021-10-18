@@ -15,7 +15,7 @@ How to contribute
 
 1: Fork this repository
 
-2:git clone https://github.com/<your-github-username>/Animation_Nation.git
+2:git clone https://github.com/<your-github-username>Animation_Nation.git
 
 3: Before you make any changes, keep your fork in sync to avoid merge conflicts:
 
