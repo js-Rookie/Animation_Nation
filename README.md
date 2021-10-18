@@ -15,11 +15,11 @@ How to contribute
 
 1: Fork this repository
 
-2:git clone hhttps://github.com/js-Rookie/Animation_Nation.git
+2:git clone https://github.com/<Your github Name>/Animation_Nation.git
 
 3: Before you make any changes, keep your fork in sync to avoid merge conflicts:
 
-       git remote add upstream https://github.com/<Your github profile>/Animation_Nation.git
+       git remote add upstream https://github.com/js-Rookie/Animation_Nation.git
        git pull upstream master/main
 
 4:After adding the upstream and checking that all files are up to date, we now will create     newbranch before editing any files. There are two ways to do so:
