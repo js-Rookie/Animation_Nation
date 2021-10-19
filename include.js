@@ -9,7 +9,7 @@ let cards = [
     {
         artName: 'Streching effect',
         pageLink: './Art/Adwaith@234/index.html',
-        imageLink: './Art/Adwaith@234/capture.gif',
+        imageLink: './Art/Adwaith@234/capture.GIF',
         author: 'Adwaith@234',
         githubLink: 'https://github.com/Adwaith123/'
       },
