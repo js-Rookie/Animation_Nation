@@ -26,13 +26,17 @@ How to contribute
 
 4:After adding the upstream and checking that all files are up to date, we now will create     newbranch before editing any files. There are two ways to do so:
 
-    git checkout -b <branch-name>
-    git branch <branch-name>
-    git checkout <branch-name>
+       git checkout -b <branch-name>
+       git branch <branch-name>
+       git checkout <branch-name>
 
-5:git commit -m "Add your message/changes you made"
+5:Commit the changes that you made 
 
-6:git push origin <your branch name>
+     git commit -m "Add your message/changes you made"
+
+6:Finally push the changes to the repository
+
+     git push origin <your branch name>
 
 
 steps:

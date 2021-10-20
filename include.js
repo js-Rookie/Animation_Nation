@@ -1,10 +1,10 @@
 let cards = [
     {
-      artName: 'Tilting effect',
-      pageLink: './Art/Adwaith@123/index.html',
-      imageLink: './Art/Adwaith@123/pic.gif',
-      author: 'Adwaith@123',
-      githubLink: 'https://github.com/Adwaith123/'
+        artName: 'Tilting effect',
+        pageLink: './Art/Adwaith@123/index.html',
+        imageLink: './Art/Adwaith@123/pic.gif',
+        author: 'Adwaith@123',
+        githubLink: 'https://github.com/Adwaith123/'
     },
     {
         artName: 'Streching effect',
@@ -12,7 +12,14 @@ let cards = [
         imageLink: './Art/Adwaith@234/Capture.GIF',
         author: 'Adwaith@234',
         githubLink: 'https://github.com/Adwaith123/'
-      },
+     },
+     {
+      artName: 'Loader animation',
+      pageLink: './Art/Coder@Hacktober/index.html',
+      imageLink: './Art/Coder@Hacktober/coder.GIF',
+      author: 'Coder@Hacktober',
+      githubLink: 'https://github.com/Adwaith123/'
+   },
 ];
 
 // Creates cards from the array above
